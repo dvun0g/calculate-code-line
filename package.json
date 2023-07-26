@@ -1,0 +1,7 @@
+{
+  "name": "calculation-code-line",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node source/index"
+  }
+}
